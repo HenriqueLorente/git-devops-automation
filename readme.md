@@ -12,4 +12,9 @@ Este é um projeto de exemplo para demonstrar o uso básico do Git e GitHub.
 
 ### Estrutura do Projeto
 
+### Adicionando conteúdo remotamente
+
+### Como trabalhr com Git
+
+
 
