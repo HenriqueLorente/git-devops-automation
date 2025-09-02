@@ -14,7 +14,7 @@ Este é um projeto de exemplo para demonstrar o uso básico do Git e GitHub.
 
 ### Adicionando conteúdo remotamente
 
-### Como trabalhr com Git
+#### Como trabalhar com Git
 
 
 
